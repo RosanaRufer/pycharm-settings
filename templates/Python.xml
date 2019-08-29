@@ -1,0 +1,17 @@
+<templateSet group="Python">
+  <template name="qp" value="print(&quot;=============&gt;&gt;&gt;&gt;&gt;$VARIABLE_NAME$:{}&lt;&lt;&lt;&lt;&lt;============&quot;.format($VARIABLE_NAME$))" description="Queen print" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="qpd" value="print(&quot;=============&gt;&gt;&gt;&gt;&gt;$VARIABLE_DESCRIPTION$:{}&lt;&lt;&lt;&lt;&lt;============&quot;.format($VARIABLE_NAME$))" description="Queen print" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE_DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
