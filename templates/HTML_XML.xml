@@ -1,12 +1,12 @@
 <templateSet group="HTML/XML">
-  <template name="jif" value="{% if $expression$ %} $dosomething$ {% endif %}" toReformat="false" toShortenFQNames="true">
+  <template name="jif" value="{% if $expression$ %} $dosomething$ {% endif %}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="dosomething" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="jifelse" value="{% if $expression$ %} $dosomething$ {% else %} $dosomethingelse$ {% endif %}" toReformat="false" toShortenFQNames="true">
+  <template name="jifelse" value="{% if $expression$ %} $dosomething$ {% else %} $dosomethingelse$ {% endif %}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="dosomething" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="dosomethingelse" expression="" defaultValue="" alwaysStopAt="true" />
