@@ -14,4 +14,12 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="jfor" value="{% for $varname$ in $collection$ %} $dosomething$ {% endfor %}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="varname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dosomething" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
