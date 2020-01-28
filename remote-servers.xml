@@ -42,5 +42,11 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="vet-server" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
