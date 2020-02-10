@@ -14,5 +14,6 @@
     <mask>test_*.py</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>requirements.txt</mask>
   </component>
 </application>
