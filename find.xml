@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.css</mask>
@@ -13,8 +14,8 @@
     <mask>*.js</mask>
     <mask>requirements.txt</mask>
     <mask>test_*.py</mask>
-    <mask>*.html</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
