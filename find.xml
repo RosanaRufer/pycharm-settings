@@ -14,8 +14,8 @@
     <mask>requirements.txt</mask>
     <mask>test_*.py</mask>
     <mask>*.py</mask>
-    <mask>*.html</mask>
     <mask>readme.md</mask>
     <mask>*.md</mask>
+    <mask>*.html</mask>
   </component>
 </application>
