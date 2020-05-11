@@ -5,13 +5,13 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="requirements.txt" />
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.cfg</mask>
     <mask>test_*</mask>
     <mask>index.html</mask>
     <mask>*.scss</mask>
-    <mask>requirements.txt</mask>
     <mask>test_*.py</mask>
     <mask>readme.md</mask>
     <mask>*.js</mask>
@@ -19,5 +19,6 @@
     <mask>*.html</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>requirements.txt</mask>
   </component>
 </application>
