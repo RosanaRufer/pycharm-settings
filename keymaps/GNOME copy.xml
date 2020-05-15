@@ -2,4 +2,10 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="shift a" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt released s" second-keystroke="right" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
