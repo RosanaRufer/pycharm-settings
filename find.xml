@@ -9,7 +9,6 @@
     <mask>test_*</mask>
     <mask>index.html</mask>
     <mask>*.scss</mask>
-    <mask>test_*.py</mask>
     <mask>readme.md</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
@@ -17,5 +16,6 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>requirements.txt</mask>
+    <mask>test_*.py</mask>
   </component>
 </application>
