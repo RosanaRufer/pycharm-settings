@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="template-default" type="HTML" />
       <mapping pattern="feeding_plan.html" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="PayByPhoneGuide" type="PLAIN_TEXT" />
       <mapping pattern="BrandImageToggle.scss" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
