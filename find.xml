@@ -20,5 +20,6 @@
     <mask>*.py</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>docker-compose.yaml</mask>
   </component>
 </application>
