@@ -8,6 +8,7 @@
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="PayByPhoneGuide" type="PLAIN_TEXT" />
       <mapping pattern="BrandImageToggle.scss" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
