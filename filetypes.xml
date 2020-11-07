@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-ci" type="Dockerfile" />
       <mapping pattern="template-default" type="HTML" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="feeding_plan.html" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="PayByPhoneGuide" type="PLAIN_TEXT" />
